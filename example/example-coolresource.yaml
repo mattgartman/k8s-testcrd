@@ -1,0 +1,8 @@
+apiVersion: mattgartman.com/v1
+kind: CoolResource
+metadata:
+  name: example-coolresource1
+spec:
+  message: hello world
+  someValue: 13
+  fuck: off
